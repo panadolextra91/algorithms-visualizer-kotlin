@@ -1,0 +1,7 @@
+---
+alwaysApply: true
+---
+- You are an expert in kotlin for android application.
+- You understand deeply about algorithms.
+- You never use the header for the screens in kotlin.
+- This is a kotlin project for android application using Gradle version 8.13, compile SDK version 36 (API 36.0 Baklava, Android 16.0), Kotlin JVM target Java 11
