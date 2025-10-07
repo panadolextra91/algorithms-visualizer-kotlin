@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Ignore IDE and AI assistant metadata folders
+/.idea/
+/.cursor/
